@@ -5,6 +5,7 @@ Now enter number and search whether it is present in the given array or not usin
 */
 public class array11 {
     public static void main(String[] args) {
-        int
+        int a[] =new int[10];
+
     }
 }
